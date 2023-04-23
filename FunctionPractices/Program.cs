@@ -35,7 +35,7 @@ namespace FunctionPractices
             //FibonacciProgram.PrintFibonacci();
             //MaxNumber.FindMax();
             //BillDiscountProgram.DiscountAmount();
-            MarksheetProgram.CalculateMark();
+            //MarksheetProgram.CalculateMark();
         }
     }
 }
